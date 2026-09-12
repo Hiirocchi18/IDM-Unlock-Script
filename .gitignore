@@ -1,0 +1,6 @@
+dist
+build
+*.exe
+.vscode
+idmRegBackup.reg
+idmRegBackup_GMAING.reg
