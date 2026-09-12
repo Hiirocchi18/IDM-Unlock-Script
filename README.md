@@ -115,4 +115,4 @@ GNU General Public License for more details.
 
 ---
 
-**Note:** Always backup your files before patching. This tool modifies binary files and incorrect usage could result in corrupted executables.
+**Note:** Always backup your files before patching. This tool modifies binary files and incorrect usage could result in corrupted executables. You have been warned.
